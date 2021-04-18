@@ -1,3 +1,6 @@
+# NOTICE: THIS CODE is not working. I am not sure what changed in recent times. but this project doesn't work.
+
+
 # keyboard-driver
 
 Implementation of linux USB keyboard driver for Even sem evaluation.
